@@ -13,8 +13,7 @@ What is the runtime complexity of the conversion that you implemented? Does it
 depend on the number of vertices, the number of edges, or both?
 
 Describe your reasoning and the conclusion you've come to. Your reasoning is the
-most important part. You do not need to prove that the invariant is correct. Add
-your answer to this markdown file.
+most important part. Add your answer to this markdown file.
 
 ## Bonus
 
