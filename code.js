@@ -1,3 +1,3 @@
-function convertToAdjMatrix(adjList) {
-    return adjList;
+function convertToAdjList(adjMatrix) {
+    return adjMatrix;
 }

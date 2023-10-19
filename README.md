@@ -1,6 +1,6 @@
 # Graph Representations
 
-Implement a function that converts an adjacency list to an adjacency matrix for
+Implement a function that converts an adjacency matrix to an adjacency list for
 a directed unweighted graph using the template in `code.js`. Test your new
 function; I've provided some basic testing code that uses
 [jsverify](https://jsverify.github.io/) in `code.test.js`. Now, the test code
@@ -17,5 +17,5 @@ most important part. Add your answer to this markdown file.
 
 ## Bonus
 
-Implement a function to convert an adjacency matrix to an adjacency list and
+Implement a function to convert an adjacency list to an adjacency matrix and
 analyze it as above.
